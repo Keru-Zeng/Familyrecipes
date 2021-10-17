@@ -2,6 +2,6 @@
 
 set of recipes as given by my grandma
 
--Pzzas (TODO)
--Suces (TODO)
--reds (TODO)
+-Pizzas (TODO)
+-Sauces (TODO)
+-Spreds (TODO)
